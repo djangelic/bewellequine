@@ -15,7 +15,7 @@ const Hero = () => {
               Equine Osteopathy with Vanessa Helvey
             </h2>
             <p className="text-lg text-earth mb-8 leading-relaxed">
-              Whole horse bodywork techniques tailored to your horse's individual needs that range from fascial and soft tissue to structural adjustments with an emphasis on getting to the root cause of discomfort and tension through an osteopathic lens.
+              Rebalancing techniques tailored to your horse’s individual needs that range from fascial and soft tissue to structural adjustments with an emphasis on getting to the root cause of tension and discomfort.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <a 
