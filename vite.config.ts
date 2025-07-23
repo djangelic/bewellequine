@@ -18,5 +18,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/djangelic.github.io/' // Since this will be the base directory
+  base: '/bewellequine/' // Replace with your GitHub repo name
 }));
