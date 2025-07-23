@@ -79,7 +79,7 @@ const Footer = () => {
             <p className="text-cream text-sm">
               © 2025 Be Well Equine. All rights reserved. 
               <span className="mx-2">•</span>
-              Licensed Equine Osteopath serving Arizona
+              Equine Osteopath serving Arizona
             </p>
           </div>
         </div>
